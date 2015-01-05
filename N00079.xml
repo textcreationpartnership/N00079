@@ -116,8 +116,8 @@
    <text xml:lang="eng">
       <body>
          <div type="letter">
-            <pb facs="tcp:000126_0000_0FA02A3226022DC8"/>
-            <pb facs="tcp:000126_0001_0FA02A32E725ED48"/>
+            <pb facs="unknown:000126_0000_0FA02A3226022DC8"/>
+            <pb facs="unknown:000126_0001_0FA02A32E725ED48"/>
             <head>To the Elders and Ministers of every Town within the Jurisdiction of the <hi>Massachusets</hi> in <hi>New-England:</hi>
             </head>
             <head type="sub">The Governour and Council sendeth greeting;</head>
